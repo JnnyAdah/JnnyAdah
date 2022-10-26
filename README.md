@@ -13,7 +13,11 @@
 
  I'm always trying to grow and and learn something new. I lose track of time when i am speaking with my father, studying something really interesting and reading a good book.
  
- * Reach Me*
+ 
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-augustine-521595164)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/augstinejennif1/status/1482946799178592257?s=21&t=yzifeEXEccDaHQI1XbDYWg)
  
 
 
