@@ -1,4 +1,4 @@
-# I'm Jennifer 💻 👋
+# Hey, I'm Jennifer :heart: 💻👋
 
 <img src="https://user-images.githubusercontent.com/114662139/197970631-235ede32-3055-47f5-8001-2049b5e9ebb7.jpg" alt="adaada" width="400" height="400">
 
