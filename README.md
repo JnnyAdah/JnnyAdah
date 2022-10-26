@@ -8,7 +8,7 @@
 - Microbiologist
 - Data Analyst
 - HR Enthusiast
-- Fronend Engr. 😉
+- Frontend Engr. 😉
 
 
  I'm always trying to grow and and learn something new. I lose track of time when i am speaking with my father, studying something really interesting and reading a good book.
