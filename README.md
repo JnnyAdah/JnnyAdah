@@ -19,13 +19,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-augustine-521595164)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/augstinejennif1/status/1482946799178592257?s=21&t=yzifeEXEccDaHQI1XbDYWg)
 
-{
-  "schemaVersion": 1,
-  "label": "SQLite",
-  "message": "3.40.0",
-  "color": "blue",
-  "namedLogo": "sqlite"
-}
+
 
  
 
